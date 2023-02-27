@@ -4,6 +4,7 @@
 - I am a second year student at Nova Scotia Commity College
 - I am working towards a diploma in IT Programming
 - I love learning new skills
+- If you'd like to see my resume, or learn a bit more about me, visit my <a href="https://www.samsingleton.ca">website</a>
 
 <br>
 
